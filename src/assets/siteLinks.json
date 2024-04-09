@@ -6,32 +6,32 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "哪吒",
+    "link": "https://vps.lalalayes.top/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "CloudMonitoring",
+    "name": "监控",
+    "link": "https://monitor.lalalayes.top/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "DualScreenStatusBar24Regular",
+    "name": "检测",
+    "link": "https://status.lalalayes.top/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "SubVolume",
+    "name": "订阅集",
+    "link": "https://substore.lalalayes.top/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "Dragon",
+    "name": "青龙",
+    "link": "https://ql.lalalayes.top/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.lalalayes.top/"
+    "link": "https://uptime.lalalayes.top/"
   }
 ]
